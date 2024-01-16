@@ -1,3 +1,10 @@
+function HomePage() {
+  return <div>Welcome to Next.js!</div>
+}
+
+export default HomePage
+
+/*
 import Image from 'next/image'
 import styles from './page.module.css'
 
@@ -93,3 +100,4 @@ export default function Home() {
     </main>
   )
 }
+*/
